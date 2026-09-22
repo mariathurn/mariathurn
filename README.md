@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Maria 👋
 
-<!--
-**mariathurn/mariathurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer & Designer** based in Copenhagen 🇩🇰  
+MSc in IT & Cognition + Bachelor’s in Graphic Design.
 
-Here are some ideas to get you started:
+I build **user-facing applications, interactive experiences, and games** with a focus on clean code and thoughtful design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I work with
+
+**React · TypeScript · JavaScript · Python · C# · Unity · REST APIs · Git**
+
+I also have experience with **machine learning, NLP, and Transformer models**, including hands-on work with multilingual AI systems.
+
+### 🚀 Currently
+
+Looking for opportunities where I can combine **development + design** and build things people actually enjoy using.
+
+📫 Feel free to explore my projects below!
