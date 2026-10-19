@@ -1,18 +1,35 @@
-# Hi, I’m Maria 👋
+## Hi, I'm Maria 👋
 
-**Frontend Developer & Designer** based in Copenhagen 🇩🇰  
-MSc in IT & Cognition + Bachelor’s in Graphic Design.
+**Software developer with a background in graphic design**, based in Copenhagen 🇩🇰
+MSc in IT & Cognition · BA in Graphic Design
 
-I build **user-facing applications, interactive experiences, and games** with a focus on clean code and thoughtful design.
+I build products that are both beautiful and easy to use – web apps, mobile apps and games,
+from the first sketch to the finished code.
+
+🌐 **Portfolio:** [mariathurn.de](https://mariathurn.de)
+
+### ✨ Featured projects
+
+- 🐑 **[Almsommer](https://github.com/mariathurn/almsommer)** – the Bavarian card game Schafkopf for Android,
+  iOS and the web, with a deck I illustrated myself, a rules engine and three computer opponents.
+  Expo / React Native. [Play in the browser](https://almsommer.mariathurn.de/)
+- 🇩🇰 **Husk** – an offline-first app for learning Danish vocabulary with spaced repetition (FSRS).
+  React Native, TypeScript, SQLite, Supabase. *In development.*
+- 💼 **[Portfolio website](https://github.com/mariathurn/portfolio-website-new)** – React, TypeScript and Vite,
+  with a canvas skill game and interactive project slideshows.
+- 🍩 **[Donut Wars](https://mariagamingcorner.itch.io/donut-wars)** – a 2D survival game made in Unity (C#).
 
 ### 🛠️ What I work with
 
-**React · TypeScript · JavaScript · Python · C# · Unity · REST APIs · Git**
+**Code:** TypeScript · JavaScript · React · React Native · Expo · Python · C# · Unity · SQLite · Supabase · REST APIs · Git
+**Design:** UI/UX · illustration · typography
 
-I also have experience with **machine learning, NLP, and Transformer models**, including hands-on work with multilingual AI systems.
+I also bring machine learning and NLP experience from my Master's thesis: fine-tuning and explaining
+multilingual Transformer models (XLM-R, mT5) for named entity recognition.
 
 ### 🚀 Currently
 
-Looking for opportunities where I can combine **development + design** and build things people actually enjoy using.
+Open to developer roles in Copenhagen and remote, where I can combine development and design and build
+things people actually enjoy using.
 
-📫 Feel free to explore my projects below!
+📫 [mail@mariathurn.de](mailto:mail@mariathurn.de) · [LinkedIn](https://www.linkedin.com/in/maria-thurn-134421142/)
